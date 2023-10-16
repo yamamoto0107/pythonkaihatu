@@ -1,4 +1,4 @@
-#例：pyaudioのライトコード
+#例：pyaudioのライトコードの場合
 #pip install pyaudio
 import pyaudio
 import wave#wavファイルを扱うためのライブラリ
